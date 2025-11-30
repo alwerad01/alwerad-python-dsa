@@ -74,7 +74,3 @@ This repo will evolve into a complete reference for:
 
 This is a personal learning repository, but feedback is welcome.
 
----
-
-Just tell me — **do you want templates too?**
-
